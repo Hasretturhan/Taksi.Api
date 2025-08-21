@@ -1,0 +1,680 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|solutionrelative:taksi.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|solutionrelative:taksi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.data\\repository\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|solutionrelative:taksi.data\\repository\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.data\\repository\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|solutionrelative:taksi.data\\repository\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.data\\repository\\supportrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|solutionrelative:taksi.data\\repository\\supportrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.data\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|solutionrelative:taksi.data\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.data\\repository\\passengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|solutionrelative:taksi.data\\repository\\passengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.data\\repository\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|solutionrelative:taksi.data\\repository\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.data\\repository\\itriprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|solutionrelative:taksi.data\\repository\\itriprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.data\\repository\\isupportrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|solutionrelative:taksi.data\\repository\\isupportrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.data\\repository\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|solutionrelative:taksi.data\\repository\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.data\\repository\\ipassengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|solutionrelative:taksi.data\\repository\\ipassengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.data\\repository\\idriverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|solutionrelative:taksi.data\\repository\\idriverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.data\\repository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|solutionrelative:taksi.data\\repository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.data\\repository\\ibonusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|solutionrelative:taksi.data\\repository\\ibonusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.data\\repository\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|solutionrelative:taksi.data\\repository\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.data\\repository\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|solutionrelative:taksi.data\\repository\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.data\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|solutionrelative:taksi.data\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.data\\repository\\bonusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|solutionrelative:taksi.data\\repository\\bonusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.data\\repository\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|solutionrelative:taksi.data\\repository\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.data\\taksidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A191A1C-93AF-4065-A251-A5A25C46472F}|Taksi.Data\\Taksi.Data.csproj|solutionrelative:taksi.data\\taksidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8275008-A811-4F16-A961-241CBDE31246}|Taksi.Business\\Taksi.Business.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.business\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8275008-A811-4F16-A961-241CBDE31246}|Taksi.Business\\Taksi.Business.csproj|solutionrelative:taksi.business\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8275008-A811-4F16-A961-241CBDE31246}|Taksi.Business\\Taksi.Business.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.business\\services\\tripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8275008-A811-4F16-A961-241CBDE31246}|Taksi.Business\\Taksi.Business.csproj|solutionrelative:taksi.business\\services\\tripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8275008-A811-4F16-A961-241CBDE31246}|Taksi.Business\\Taksi.Business.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.business\\services\\supportrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8275008-A811-4F16-A961-241CBDE31246}|Taksi.Business\\Taksi.Business.csproj|solutionrelative:taksi.business\\services\\supportrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8275008-A811-4F16-A961-241CBDE31246}|Taksi.Business\\Taksi.Business.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.business\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8275008-A811-4F16-A961-241CBDE31246}|Taksi.Business\\Taksi.Business.csproj|solutionrelative:taksi.business\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8275008-A811-4F16-A961-241CBDE31246}|Taksi.Business\\Taksi.Business.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.business\\services\\passengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8275008-A811-4F16-A961-241CBDE31246}|Taksi.Business\\Taksi.Business.csproj|solutionrelative:taksi.business\\services\\passengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8275008-A811-4F16-A961-241CBDE31246}|Taksi.Business\\Taksi.Business.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.business\\services\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8275008-A811-4F16-A961-241CBDE31246}|Taksi.Business\\Taksi.Business.csproj|solutionrelative:taksi.business\\services\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8275008-A811-4F16-A961-241CBDE31246}|Taksi.Business\\Taksi.Business.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.business\\services\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8275008-A811-4F16-A961-241CBDE31246}|Taksi.Business\\Taksi.Business.csproj|solutionrelative:taksi.business\\services\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8275008-A811-4F16-A961-241CBDE31246}|Taksi.Business\\Taksi.Business.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.business\\services\\bonusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8275008-A811-4F16-A961-241CBDE31246}|Taksi.Business\\Taksi.Business.csproj|solutionrelative:taksi.business\\services\\bonusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8275008-A811-4F16-A961-241CBDE31246}|Taksi.Business\\Taksi.Business.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.business\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8275008-A811-4F16-A961-241CBDE31246}|Taksi.Business\\Taksi.Business.csproj|solutionrelative:taksi.business\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|solutionrelative:taksi.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.api\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|solutionrelative:taksi.api\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.api\\controllers\\supportrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|solutionrelative:taksi.api\\controllers\\supportrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.api\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|solutionrelative:taksi.api\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.api\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|solutionrelative:taksi.api\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.api\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|solutionrelative:taksi.api\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.api\\controllers\\bonuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|solutionrelative:taksi.api\\controllers\\bonuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|c:\\users\\lenovo\\source\\repos\\taksisolution\\taksi.api\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE6AD93-3F14-4358-BD26-C4EE6D8FC430}|Taksi.Api\\Taksi.Api.csproj|solutionrelative:taksi.api\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 405,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "Taksi.Data\\Repository\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\PaymentRepository.cs",
+              "RelativeToolTip": "Taksi.Data\\Repository\\PaymentRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:06:17.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SupportRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\SupportRequestRepository.cs",
+              "RelativeDocumentMoniker": "Taksi.Data\\Repository\\SupportRequestRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\SupportRequestRepository.cs",
+              "RelativeToolTip": "Taksi.Data\\Repository\\SupportRequestRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:11:12.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TripRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\TripRepository.cs",
+              "RelativeDocumentMoniker": "Taksi.Data\\Repository\\TripRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\TripRepository.cs",
+              "RelativeToolTip": "Taksi.Data\\Repository\\TripRepository.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:17:27.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "Taksi.Data\\Repository\\VehicleRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\VehicleRepository.cs",
+              "RelativeToolTip": "Taksi.Data\\Repository\\VehicleRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:21:57.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Taksi.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Program.cs",
+              "RelativeToolTip": "Taksi.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:27:36.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Taksi.Api\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Taksi.Api\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:07:02.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PassengerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\PassengerRepository.cs",
+              "RelativeDocumentMoniker": "Taksi.Data\\Repository\\PassengerRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\PassengerRepository.cs",
+              "RelativeToolTip": "Taksi.Data\\Repository\\PassengerRepository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:28:20.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IVehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\IVehicleRepository.cs",
+              "RelativeDocumentMoniker": "Taksi.Data\\Repository\\IVehicleRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\IVehicleRepository.cs",
+              "RelativeToolTip": "Taksi.Data\\Repository\\IVehicleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:21:29.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITripRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\ITripRepository.cs",
+              "RelativeDocumentMoniker": "Taksi.Data\\Repository\\ITripRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\ITripRepository.cs",
+              "RelativeToolTip": "Taksi.Data\\Repository\\ITripRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:17:07.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISupportRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\ISupportRequestRepository.cs",
+              "RelativeDocumentMoniker": "Taksi.Data\\Repository\\ISupportRequestRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\ISupportRequestRepository.cs",
+              "RelativeToolTip": "Taksi.Data\\Repository\\ISupportRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:10:56.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "Taksi.Data\\Repository\\IPaymentRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\IPaymentRepository.cs",
+              "RelativeToolTip": "Taksi.Data\\Repository\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:05:53.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPassengerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\IPassengerRepository.cs",
+              "RelativeDocumentMoniker": "Taksi.Data\\Repository\\IPassengerRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\IPassengerRepository.cs",
+              "RelativeToolTip": "Taksi.Data\\Repository\\IPassengerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:28:55.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDriverRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\IDriverRepository.cs",
+              "RelativeDocumentMoniker": "Taksi.Data\\Repository\\IDriverRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\IDriverRepository.cs",
+              "RelativeToolTip": "Taksi.Data\\Repository\\IDriverRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:42:51.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICouponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\ICouponRepository.cs",
+              "RelativeDocumentMoniker": "Taksi.Data\\Repository\\ICouponRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\ICouponRepository.cs",
+              "RelativeToolTip": "Taksi.Data\\Repository\\ICouponRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:00:21.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBonusRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\IBonusRepository.cs",
+              "RelativeDocumentMoniker": "Taksi.Data\\Repository\\IBonusRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\IBonusRepository.cs",
+              "RelativeToolTip": "Taksi.Data\\Repository\\IBonusRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:53:03.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAddressRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\IAddressRepository.cs",
+              "RelativeDocumentMoniker": "Taksi.Data\\Repository\\IAddressRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\IAddressRepository.cs",
+              "RelativeToolTip": "Taksi.Data\\Repository\\IAddressRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:47:54.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DriverRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\DriverRepository.cs",
+              "RelativeDocumentMoniker": "Taksi.Data\\Repository\\DriverRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\DriverRepository.cs",
+              "RelativeToolTip": "Taksi.Data\\Repository\\DriverRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:43:09.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CouponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\CouponRepository.cs",
+              "RelativeDocumentMoniker": "Taksi.Data\\Repository\\CouponRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\CouponRepository.cs",
+              "RelativeToolTip": "Taksi.Data\\Repository\\CouponRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:00:38.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BonusRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\BonusRepository.cs",
+              "RelativeDocumentMoniker": "Taksi.Data\\Repository\\BonusRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\BonusRepository.cs",
+              "RelativeToolTip": "Taksi.Data\\Repository\\BonusRepository.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:53:25.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddressRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\AddressRepository.cs",
+              "RelativeDocumentMoniker": "Taksi.Data\\Repository\\AddressRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\Repository\\AddressRepository.cs",
+              "RelativeToolTip": "Taksi.Data\\Repository\\AddressRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:49:08.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaksiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\TaksiDbContext.cs",
+              "RelativeDocumentMoniker": "Taksi.Data\\TaksiDbContext.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Data\\TaksiDbContext.cs",
+              "RelativeToolTip": "Taksi.Data\\TaksiDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:25:42.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Business\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "Taksi.Business\\Services\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Business\\Services\\VehicleService.cs",
+              "RelativeToolTip": "Taksi.Business\\Services\\VehicleService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:22:33.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TripService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Business\\Services\\TripService.cs",
+              "RelativeDocumentMoniker": "Taksi.Business\\Services\\TripService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Business\\Services\\TripService.cs",
+              "RelativeToolTip": "Taksi.Business\\Services\\TripService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:06:59.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SupportRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Business\\Services\\SupportRequestService.cs",
+              "RelativeDocumentMoniker": "Taksi.Business\\Services\\SupportRequestService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Business\\Services\\SupportRequestService.cs",
+              "RelativeToolTip": "Taksi.Business\\Services\\SupportRequestService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:11:36.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Business\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Taksi.Business\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Business\\Services\\PaymentService.cs",
+              "RelativeToolTip": "Taksi.Business\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:06:33.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PassengerService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Business\\Services\\PassengerService.cs",
+              "RelativeDocumentMoniker": "Taksi.Business\\Services\\PassengerService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Business\\Services\\PassengerService.cs",
+              "RelativeToolTip": "Taksi.Business\\Services\\PassengerService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:06:06.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DriverService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Business\\Services\\DriverService.cs",
+              "RelativeDocumentMoniker": "Taksi.Business\\Services\\DriverService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Business\\Services\\DriverService.cs",
+              "RelativeToolTip": "Taksi.Business\\Services\\DriverService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:05:23.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CouponService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Business\\Services\\CouponService.cs",
+              "RelativeDocumentMoniker": "Taksi.Business\\Services\\CouponService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Business\\Services\\CouponService.cs",
+              "RelativeToolTip": "Taksi.Business\\Services\\CouponService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:01:01.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BonusService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Business\\Services\\BonusService.cs",
+              "RelativeDocumentMoniker": "Taksi.Business\\Services\\BonusService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Business\\Services\\BonusService.cs",
+              "RelativeToolTip": "Taksi.Business\\Services\\BonusService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:53:49.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddressService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Business\\Services\\AddressService.cs",
+              "RelativeDocumentMoniker": "Taksi.Business\\Services\\AddressService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Business\\Services\\AddressService.cs",
+              "RelativeToolTip": "Taksi.Business\\Services\\AddressService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:49:38.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "Taksi.Api\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "Taksi.Api\\Controllers\\VehicleController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:22:54.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TripController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Controllers\\TripController.cs",
+              "RelativeDocumentMoniker": "Taksi.Api\\Controllers\\TripController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Controllers\\TripController.cs",
+              "RelativeToolTip": "Taksi.Api\\Controllers\\TripController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:18:38.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SupportRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Controllers\\SupportRequestController.cs",
+              "RelativeDocumentMoniker": "Taksi.Api\\Controllers\\SupportRequestController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Controllers\\SupportRequestController.cs",
+              "RelativeToolTip": "Taksi.Api\\Controllers\\SupportRequestController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:11:58.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PassengerController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Controllers\\PassengerController.cs",
+              "RelativeDocumentMoniker": "Taksi.Api\\Controllers\\PassengerController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Controllers\\PassengerController.cs",
+              "RelativeToolTip": "Taksi.Api\\Controllers\\PassengerController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:30:03.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DriverController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Controllers\\DriverController.cs",
+              "RelativeDocumentMoniker": "Taksi.Api\\Controllers\\DriverController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Controllers\\DriverController.cs",
+              "RelativeToolTip": "Taksi.Api\\Controllers\\DriverController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:43:59.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CouponController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Controllers\\CouponController.cs",
+              "RelativeDocumentMoniker": "Taksi.Api\\Controllers\\CouponController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Controllers\\CouponController.cs",
+              "RelativeToolTip": "Taksi.Api\\Controllers\\CouponController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAA8wFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:01:25.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BonusController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Controllers\\BonusController.cs",
+              "RelativeDocumentMoniker": "Taksi.Api\\Controllers\\BonusController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Controllers\\BonusController.cs",
+              "RelativeToolTip": "Taksi.Api\\Controllers\\BonusController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:54:13.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "Taksi.Api\\Controllers\\AddressController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TaksiSolution\\Taksi.Api\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "Taksi.Api\\Controllers\\AddressController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:49:59.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 537,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
