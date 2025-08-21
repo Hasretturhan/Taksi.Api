@@ -32,7 +32,7 @@ Katmanlı mimari ile geliştirilen taksi uygulaması backend’i. Aşağıdaki v
 
 ## Teknolojiler
 
-- **.NET** 7/8 (ASP.NET Core Web API)
+- **.NET** 8 (ASP.NET Core Web API)
 - **Entity Framework Core** (SQL Server)
 - **Swagger / Swashbuckle**
 - **Dependency Injection**, **LINQ**
