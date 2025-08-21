@@ -18,22 +18,6 @@ Katmanlı mimari ile geliştirilen taksi uygulaması backend’i. Aşağıdaki v
 
 ---
 
-## İçindekiler
-- [Mimari ve Katmanlar](#mimari-ve-katmanlar)
-- [Teknolojiler](#teknolojiler)
-- [Kurulum](#kurulum)
-- [Veritabanı ve Migrasyon](#veritabanı-ve-migrasyon)
-- [Çalıştırma](#çalıştırma)
-- [Swagger / API Dökümantasyonu](#swagger--api-dökümantasyonu)
-- [Uç Noktalar (Kısa Özet)](#uç-noktalar-kısa-özet)
-- [Örnek İstekler](#örnek-istekler)
-- [Proje Yapısı](#proje-yapısı)
-- [Kod Tarzı ve Notlar](#kod-tarzı-ve-notlar)
-- [Yol Haritası](#yol-haritası)
-- [Lisans](#lisans)
-
----
-
 ## Mimari ve Katmanlar
 
 - **Taksi.Entities**: POCO Entity sınıfları (Passenger, Driver, Trip, vb.)
